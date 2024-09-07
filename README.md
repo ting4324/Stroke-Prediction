@@ -6,6 +6,7 @@ Dataset:
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 Model Evaluation:
+
 Choosen three algorithms: SVM, Decision Tree and Logistic Regression
 ![image](https://github.com/user-attachments/assets/c505d605-b83c-431b-a16c-e17e87bb556e)
 
