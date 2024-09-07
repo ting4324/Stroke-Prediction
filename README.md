@@ -11,4 +11,5 @@ Choosen three algorithms: SVM, Decision Tree and Logistic Regression
 
 
 Deployment (example output):
+
 ![image](https://github.com/user-attachments/assets/d26a9776-8324-4e51-9297-31f3554b3cee)
